@@ -83,3 +83,8 @@ Pemilih di penjuru kanan atas menawarkan A (teal + pic), B (biru + limau) dan C 
 ## BM/EN heading-size alignment — 21 October 2026
 
 Removed the BM-only global h1 override that enlarged the project introduction relative to EN. Both languages now use the same responsive title rules. Updated stylesheet cache version. App engine unchanged.
+
+
+## Header logos — 21 October 2026
+
+Corrected Moodify and UTM header image URLs to the existing SVG assets. Existing desktop/mobile sizing retained; engine unchanged.
