@@ -265,7 +265,6 @@ em { font-style: italic; }
   .brand { font-size: .95rem; gap: .4rem; }
   .lang-btn { min-width: 44px; padding: .4rem .55rem; }
 }
-/* Bahasa Melayu strings run longer: slightly smaller display size; cards align from the top */
-html[lang="ms-MY"] h1 { font-size: clamp(2.1rem, 1.1rem + 3.6vw, 3.6rem); }
+/* Both display languages share heading sizes; cards align from the top. */
 .scenario { display: flex; flex-direction: column; justify-content: flex-start; }
 .field-label { margin-top: 1.25rem; }

@@ -78,3 +78,8 @@ Teal #087F8C, pic #FFD3B6 dan latar #FFF9F3 dipilih pengguna serta diterapkan pa
 ## Pemilih palet pengguna
 
 Pemilih di penjuru kanan atas menawarkan A (teal + pic), B (biru + limau) dan C (ungu + kuning). Pilihan disimpan secara setempat dalam pelayar dan hanya mengubah CSS paparan; engine, model dan Worker tidak diubah.
+
+
+## BM/EN heading-size alignment — 21 October 2026
+
+Removed the BM-only global h1 override that enlarged the project introduction relative to EN. Both languages now use the same responsive title rules. Updated stylesheet cache version. App engine unchanged.
