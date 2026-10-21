@@ -88,3 +88,8 @@ Removed the BM-only global h1 override that enlarged the project introduction re
 ## Header logos — 21 October 2026
 
 Corrected Moodify and UTM header image URLs to the existing SVG assets. Existing desktop/mobile sizing retained; engine unchanged.
+
+
+## Swatch palette panel — 21 October 2026
+
+Replaced the select menu with an accessible icon-triggered panel containing six named palettes and four-colour swatches. Selected state, BM/EN labels, persistence, legacy preference migration, Escape/outside-click dismissal and storage fallback supported. Privacy copy now includes palette preferences. Engine unchanged. Three palette tests and 28 existing site tests pass.
